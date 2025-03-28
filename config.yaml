@@ -1,7 +1,7 @@
-path: /home/agil/Documents/Kuliah/IISMA/Ulsan College/UC Kuliah/Practical Cases In The IT Field/Projek besar/Training Segmentation/data
+path: /Users/cal/Documents/Coding/Python/Calorify-YOLOV11/FoodData
 train: train
-val: val
+val: valid
 test: test
 
-nc: 4
-names: ['animal', 'misc', 'robot', 'vehicle']
+nc: 29
+names: ['ayam bakar', 'ayam goreng', 'bakso', 'bakwan', 'batagor', 'bihun', 'capcay', 'gado-gado', 'ikan goreng', 'kerupuk', 'martabak telur', 'mie', 'nasi goreng', 'nasi putih', 'nugget', 'opor ayam', 'pempek', 'rendang', 'roti', 'sate', 'sosis', 'soto', 'steak', 'tahu', 'telur', 'tempe', 'terong balado', 'tumis kangkung', 'udang']
