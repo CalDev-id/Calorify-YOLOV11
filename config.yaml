@@ -1,0 +1,7 @@
+path: /home/agil/Documents/Kuliah/IISMA/Ulsan College/UC Kuliah/Practical Cases In The IT Field/Projek besar/Training Segmentation/data
+train: train
+val: val
+test: test
+
+nc: 4
+names: ['animal', 'misc', 'robot', 'vehicle']
