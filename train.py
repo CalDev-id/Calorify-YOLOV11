@@ -1,7 +1,7 @@
 from ultralytics import YOLO
 
 model = YOLO("yolo11s.pt")
-model.train(data="config.yaml", epochs=1, batch=4, imgsz=640)
+model.train(data="config.yaml", epochs=20, batch=4, imgsz=320)
 
 
 
